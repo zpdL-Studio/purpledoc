@@ -1,0 +1,3 @@
+class ProviderException implements Exception {
+
+}
